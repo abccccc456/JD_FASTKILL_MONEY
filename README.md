@@ -1,8 +1,6 @@
 # Jd_Seckill
 请安装保证Python版本大于等于3.6
 
-## 关注公众号观看配置视频
-- 公众号：《Python数据结构》
 
 ![](https://oscimg.oschina.net/oscnet/up-495d917e980408b9f7bb468967502c0352f.JPEG)
 
